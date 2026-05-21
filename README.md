@@ -6,6 +6,13 @@ The workflows transition from classical machine learning baselines to advanced d
 
 Note: Each notebook is fully self-contained and includes its own exploratory data analysis (EDA) and data preprocessing steps tailored to the specific model requirements.
 
+## 📊 Dataset
+
+The data used in this project is sourced from Kaggle. Due to file size limitations, the raw data files are not tracked in this repository. 
+
+* **Dataset Link:** [View Dataset on Kaggle](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
+* **Setup Instructions:** Download the dataset from the link above and place the unzipped CSV files into your local `data/` directory before executing the notebooks.
+
 ## 📂 Repository Structure
 
 ```text
