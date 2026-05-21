@@ -20,7 +20,7 @@ project/
 │
 │── logistic_regression.ipynb   # Baseline classification & feature evaluation
 │── random_forest.ipynb         # Ensemble tree-based classification
-│── autoencoder.ipynb           # Unsupervised anomaly detection / Deep Learning
+│── autoencoders.ipynb           # Unsupervised anomaly detection / Deep Learning
 │
 │
 └── README.md                       # Project documentation and summary
